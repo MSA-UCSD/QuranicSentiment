@@ -2,7 +2,7 @@
 
 An intelligent web application that provides relevant Quranic verses based on emotional states, combining sentiment analysis with spiritual guidance.
 
-🌐 **Live Site**: [https://ymorsi7.github.io/QuranicSentiment/](https://ymorsi7.github.io/QuranicSentiment/)
+🌐 **Live Site**: [msa-ucsd.github.io/QuranicSentiment/](msa-ucsd.github.io/QuranicSentiment/)
 
 **NOTE: This is NOT a ChatGPT wrapper 😂**
 

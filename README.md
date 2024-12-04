@@ -132,13 +132,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - TextBlob and NLTK communities
 - All contributors and supporters
 
-## Contact 📬
-
-Contributors:
-- Yusuf Morsi
-- Younus Ahmad
-- Ali Alani
-
 Project Links:
-- Repository: [https://github.com/ymorsi7/QuranicSentiment](https://github.com/ymorsi7/QuranicSentiment)
-- Live Site: [https://ymorsi7.github.io/QuranicSentiment/](https://ymorsi7.github.io/QuranicSentiment/)
+- Repository: [https://github.com/MSA-UCSD/QuranicSentiment](https://github.com/MSA-UCSD/QuranicSentiment)
+- Live Site: [msa-ucsd.github.io/QuranicSentiment/](msa-ucsd.github.io/QuranicSentiment/)
